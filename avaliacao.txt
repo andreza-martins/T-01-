@@ -1,0 +1,13 @@
+AV1
+-----
+
+T01 = 1.25 [ faltou um arquivo com a descriçao e justificativa para SD do projeto ]
+
+
+** Eu tenho 2 repositórios no github para esse mesmo grupo
+
+1) https://github.com/andreza-martins/nonprogrammers
+2) https://github.com/andreza-martins/T-01-
+
+Estou considerando o contedúdo da 2 (T-01-), pois foi onde encontrei os arquivos do T01 )
+
