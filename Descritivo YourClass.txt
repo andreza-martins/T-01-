@@ -1,0 +1,6 @@
+O YourClass é um seriço de aulas via transmissão online que permite professores que querem dar aulas específicas e alunos que querem aprender sobre uma matéria específica se encontrem.
+A plataforma possui uma alta variedade de aulas para quem o procura, além de ser facil de manusear e acessar para que seja uma plataforma estável e abranja muitas idades. 
+Possui além da aba principal (inicio) as abas: Suas aulas, aulas favoritas e aulas já assistidas. Na plataforma o cadastro é simples de se fazer e de editar. 
+Trabalha com sistema distribuído, pois é uma plataforma que utiliza VoD (video on demand). Portanto, além de servidores distruibuídos trabalha com o conceito de computação em nuvem,
+que faz com que o conteúdo esteja disponível em qualquer lugar que se queira acessar desde que haja um cadastro. Escolhemos utilizar sistemas distribuidos principalmente pelo fato da
+disponibilidade, mas também pela redundância que garante vantagem sobre a estabilidade da plataforma.    
