@@ -1,0 +1,13 @@
+Trabalho T02
+
+RA: 201951319214
+Nome: Andreza Bezerra Martins 
+Curso: Ciência da Computação
+
+Justifique a sua escolha por uma das três tecnologias RPC existentes:
+●RMI
+●DCOM
+●CORBA
+
+Resposta: Se eu fosse escolher uma tecnologia RPC para a construção de um projeto com o intuito de ser um sistema distribuído, iria utilizar a arquitetura CORBA, pois a mesma é compatível com vários sistemas operacionais, além de não ter restrições de processadores e hardwares o sistema poderá ser programado em outras línguas além do Java e é compatível em um caso de Cliente e Servidor possuírem linguagens diferentes, os dois poderão se comunicar sem problema algum. 
+Isto acaba trazendo uma segurança na eficácia do projeto, liberdade para os desenvolvedores criarem as APIs sem se preocuparem com compatibilidade de linguagem e consequentemente acaba trazendo um lucro em questão monetária para o projeto, pois como é bem abrangente quanto á compatibilidade, a possibilidade de problemas em um projeto bem estrutura é menor, diminuindo as demandas de manutenção no código para correção de bugs. 
