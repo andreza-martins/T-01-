@@ -1,0 +1,18 @@
+Gabriel César Rogério/201951504089/Ciências da Computação
+
+Trabalho sobre RPC 
+
+Justificativa entre 3 tecnologias RPC:
+Dentre as 3 opções, que são: RMI, DCOM e CORBA, a opção que eu escolheria é a RMI. Por mais que seja uma interface que fica restrita ao uso do Java apenas,
+isso se torna uma vantagem também, pois o Java além de ainda ser muito utilizado e atualizado, proporciona algumas vantagens competitivas como:
+- Orientação a objetos: além da vantagem natural da OO que é o reuso e a melhor distruibuição da estrutura do código, tem a vantagem de que é possível
+através do RMI passar Objetos como argumentos e retornar valroes, e não apenas tipos de dados pré definidos (como seria por exemplo no DCOM);
+- Facilidade de usar, escrever e alterar: como disse, por utilizar o Java algumas coisas são facilitadas e uma dessas é a implementação das interfaces
+remotas, que são feitas através da construção de interfaces do Java(é um objeto), ou seja, é algo muito fácil de se construir;
+- Portabilidade : o RMI utiliza da JVM (Java Virtual Machine), ou seja, uma vez que a maquina que se queira rodar tenha a JVM instalada, o RMI compilará
+e rodará perfeitamente;
+- Computação Paralela : o RMI é uma interface multi-thread, e isso faz com que o servidor explore as Java Threads e tenha melhor perfomance com o 
+processamento concorrente das requisições do cliente.
+De forma geral minha escolha é o RMI pela questão da descomplicação e clareza que o Java traz para a implementação, a perfomance utilizando as Java Threads,
+e também pela segurança imbutida nos mecanismos do Java que proteje os sistemas de baixar códigos mal intencionados, podendo até em casos mais severos 
+recusar o download das implementações.
