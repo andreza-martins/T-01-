@@ -5,9 +5,11 @@ T01 = 1.5
 
 T02
 
-Andreza Bezerra Martins	= 1pt
-Gabriel César Rogério	= 1 pt
-Victor Gallicchio Filho	= 1 pt
+	Andreza Bezerra Martins	= 1pt
+	Gabriel César Rogério	= 1 pt
+	Victor Gallicchio Filho	= 1 pt
+
+T03 = 2.5 pts
 
 
 
